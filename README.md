@@ -20,7 +20,7 @@ Designed to perform basic arithmetic operations with a smooth user experience ac
 > 📱 Fully responsive – adapts to mobile, tablet, and desktop screens  
 > 🧮 Simple and intuitive layout for easy usage
 
-![screenshot placeholder](preview.png) 
+![screenshot placeholder](calc.png) 
 
 ---
 
@@ -30,10 +30,6 @@ calculator/
 ├── index.html # Markup structure
 ├── style.css # Custom styles and layout
 └── script.js # Functional calculator logic
-
-yaml
-Copy
-Edit
 
 ---
 
@@ -55,7 +51,9 @@ Open index.html in your browser
 Start calculating!
 
 📌 Notes
-Only supports single-step arithmetic (no parentheses or order of operations)
+Only supports single-step arithmetic (no parentheses or order of operations
+🙌 Credits
+Built with 💙 by Vaibhav
 
 Built as a beginner-friendly project to demonstrate core web development skills
 
