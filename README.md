@@ -51,9 +51,9 @@ Open index.html in your browser
 Start calculating!
 
 📌 Notes
-Only supports single-step arithmetic (no parentheses or order of operations
+Only supports single-step arithmetic (no parentheses or order of operations)
 🙌 Credits
-Built with 💙 by Vaibhav
+Built  💙 by Vaibhav Goswami
 
 Built as a beginner-friendly project to demonstrate core web development skills
 
